@@ -10,23 +10,6 @@ Additionally, the notebook simulates and visualizes **the next 5 predicted closi
 
 ---
 
-## 📌 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Flow](#project-flow)
-  - [1. Data Collection](#1-data-collection)
-  - [2. Feature Engineering](#2-feature-engineering)
-  - [3. Classification Model](#3-classification-model)
-  - [4. Regression Model](#4-regression-model)
-  - [5. Predicting & Plotting Future Days](#5-predicting--plotting-future-days)
-- [How to Use](#how-to-use)
-- [Visual Example](#visual-example)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## 🚀 Features
 
 ✅ Fetches historical stock data  
